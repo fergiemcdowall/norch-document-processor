@@ -1,0 +1,31 @@
+{
+  "name": "forage-document-processor",
+  "version": "0.0.1",
+  "description": "A library for parsing HTML into any sort of JSON you want",
+  "main": "./lib/forage-document-processor.js",
+  "dependencies": {
+    "commander": "2.0.0",
+    "cheerio": "0.0.3",
+    "underscore": "1.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foragejs/forage-document-processor.git"
+  },
+  "keywords": [
+    "processor",
+    "document",
+    "HTML",
+    "JSON",
+    "forage"
+  ],
+  "bin": {
+    "forage-document-processor": "./bin/forage-document-processor"
+  },
+  "maintainers": [
+    "fergiemcdowall <fergusmcdowall@gmail.com>"
+  ],
+  "engines": {
+    "node": ">= 0.8.x"
+  }
+}
