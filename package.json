@@ -1,6 +1,6 @@
 {
   "name": "forage-document-processor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A library for parsing HTML into any sort of JSON you want",
   "main": "./lib/forage-document-processor.js",
   "dependencies": {
