@@ -1,10 +1,10 @@
-forage-document-processor
+norch-document-processor
 =========================
 
 A library for parsing HTML into any sort of JSON you want
 
 ```
-  Usage: forage-document-processor [options]
+  Usage: norch-document-processor [options]
 
   Options:
 
@@ -15,6 +15,6 @@ A library for parsing HTML into any sort of JSON you want
     -a, --adapter <adapter>                      specify the adapter, for example adapter-simple.js
 ```
 
-[![NPM](https://nodei.co/npm/forage-document-processor.png?stars&downloads)](https://nodei.co/npm/forage-document-processor/)
+[![NPM](https://nodei.co/npm/norch-document-processor.png?stars&downloads)](https://nodei.co/npm/norch-document-processor/)
 
-[![NPM](https://nodei.co/npm-dl/forage-document-processor.png)](https://nodei.co/npm/forage-document-processor/)
+[![NPM](https://nodei.co/npm-dl/norch-document-processor.png)](https://nodei.co/npm/norch-document-processor/)
